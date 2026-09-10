@@ -103,7 +103,7 @@ add()
 class Demo:
     def show(Self):
         print('hii')
-d.Demo()
+d=Demo()
 d.show()
 
 
